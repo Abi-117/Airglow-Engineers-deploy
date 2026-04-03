@@ -31,7 +31,8 @@ app.use(cors({
     "http://localhost:8080",
     "https://airglow-engineers-deploy.onrender.com",
     "https://thebrandservice.in",
-    "https://www.thebrandservice.in"
+    "https://www.thebrandservice.in",
+    "https://airglow-engineers-deploy-1.onrender.com"
   ],
   methods: ["GET","POST","PUT","DELETE","OPTIONS"],
   allowedHeaders: ["Content-Type","Authorization"],
